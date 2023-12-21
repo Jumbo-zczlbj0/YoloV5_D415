@@ -37,9 +37,8 @@ Download and change the weight file path.(Weight link: https://github.com/ultral
 
 > python pyrealsense2_camera.py
 
-<img src="https://github.com/Jumbo-zczlbj0/YoloV5_D415/blob/main/demo.gif" width="300px">
+<img src="https://github.com/Jumbo-zczlbj0/YoloV5_D415/blob/main/demo.gif" width="500px">
 
-!https://github.com/Jumbo-zczlbj0/YoloV5_D415/blob/main/demo.gif
 
 ## Train YOLO V5
 
