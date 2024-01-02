@@ -102,7 +102,7 @@ try:
             class_name = results.names[int(cls)]
 
             # Only broadcast when the confidence level is greater than 0.68
-            if conf > 0.68:
+            if conf > 0.52:
                 # Display depth on image
                 cv2.putText(color_image, f"{class_name} depth: ({z3d:.2f})", (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX,
                             0.5, (255, 255, 255), 2)
