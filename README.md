@@ -1,5 +1,5 @@
 # Yolo-Object-Detection-With-Intel-Realsense-Camera
-The algorithm does not change the YoloV5 source code, but creates a new python file: pyrealsense2_camera.py. [a](README_zh-CN.md)
+The algorithm does not change the YoloV5 source code, but creates a new python file: pyrealsense2_camera.py. [新](README_zh-CN.md)
 
 ## Install
 ### 1.Install cuda
